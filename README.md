@@ -20,3 +20,6 @@ Concepts to keep in mind:
 - Tests
 
 Read the project_skeleton file to better understand the project structure
+
+The tricky parts here will involve setting up the directions and keeping track of just how far the user has “walked” in the game. I suggest sticking to just a few basic descriptions or rooms, perhaps 6 at most. This project also continues to build on using userinputted data. It can be a relatively basic game.
+We can eventually build this into a more vast, complex world, the coding will get substantially harder, especially if we want our users to start interacting with actual objects within the game. That complexity could be great, if we’d like to make this into a longterm project.
