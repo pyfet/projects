@@ -131,4 +131,4 @@ Here’s the same thing on Windows PowerShell:
     $ new–item –type file NAME/__init__.py
     $ new–item –type file tests/__init__.py
 
-That creates an empty Python module directory we can put our code in. Then we need to create a setup.py file we can use to install our project later if we want:
+That creates an empty Python module directory we can put our code in.
